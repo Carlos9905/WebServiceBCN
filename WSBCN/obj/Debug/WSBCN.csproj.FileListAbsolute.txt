@@ -1,0 +1,11 @@
+C:\Users\Carlos\Documents\VSProyect\WSBCN\WSBCN\bin\Debug\WSBCN.exe.config
+C:\Users\Carlos\Documents\VSProyect\WSBCN\WSBCN\bin\Debug\WSBCN.exe
+C:\Users\Carlos\Documents\VSProyect\WSBCN\WSBCN\bin\Debug\WSBCN.pdb
+C:\Users\Carlos\Documents\VSProyect\WSBCN\WSBCN\obj\Debug\WSBCN.csproj.AssemblyReference.cache
+C:\Users\Carlos\Documents\VSProyect\WSBCN\WSBCN\obj\Debug\WSBCN.csproj.SuggestedBindingRedirects.cache
+C:\Users\Carlos\Documents\VSProyect\WSBCN\WSBCN\obj\Debug\WSBCN.MainForm.resources
+C:\Users\Carlos\Documents\VSProyect\WSBCN\WSBCN\obj\Debug\WSBCN.Properties.Resources.resources
+C:\Users\Carlos\Documents\VSProyect\WSBCN\WSBCN\obj\Debug\WSBCN.csproj.GenerateResource.cache
+C:\Users\Carlos\Documents\VSProyect\WSBCN\WSBCN\obj\Debug\WSBCN.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Documents\VSProyect\WSBCN\WSBCN\obj\Debug\WSBCN.exe
+C:\Users\Carlos\Documents\VSProyect\WSBCN\WSBCN\obj\Debug\WSBCN.pdb
